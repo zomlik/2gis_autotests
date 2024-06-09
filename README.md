@@ -1,18 +1,18 @@
 # Тестовое задание для 2ГИС
 **Библеотеки:** python, pytest, request, pydantic, pytest-html
 
-## Кланирование репозитория
+## Клонирование репозитория:
 ```commandline
 git clone https://github.com/zomlik/2gis_autotests.git
 ```
 ## Создание виртеального окружения:
 ```commandline
 python -m venv venv
-. venv\Scripts\active
+./venv/Scripts/activate
 ```
-## Установка зависемостей:
+## Установка зависимостей:
 ```commandline
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 ## Запуск тестов без отчета:
 ```commandline
