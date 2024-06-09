@@ -3,7 +3,7 @@
 
 ## Кланирование репозитория
 ```commandline
-git clone
+git clone https://github.com/zomlik/2gis_autotests.git
 ```
 ## Создание виртеального окружения:
 ```commandline
