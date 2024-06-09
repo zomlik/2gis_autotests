@@ -1,5 +1,5 @@
 # Тестовое задание для 2ГИС
-**Библеотеки:** python, pytest, request, pydantic, pytest-html
+**Библеотеки:** pytest, request, pydantic, pytest-html
 
 ## Клонирование репозитория:
 ```commandline
