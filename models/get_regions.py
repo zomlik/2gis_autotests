@@ -16,4 +16,4 @@ class Items(BaseModel):
 
 class GetRegions(BaseModel):
     total: int
-    items: List[Items] = []
+    items: List[Items]
