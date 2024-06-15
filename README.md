@@ -5,7 +5,7 @@
 ```commandline
 git clone https://github.com/zomlik/2gis_autotests.git
 ```
-## Создание виртеального окружения:
+## Создание виртуального окружения:
 ```commandline
 python -m venv venv
 ./venv/Scripts/activate
